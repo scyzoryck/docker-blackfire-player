@@ -6,4 +6,4 @@ RUN apk add --no-cache wget && \
 
 WORKDIR /app
 
-ENTRYPOINT ["exec", "/usr/local/bin/blackfire-player"]
+ENTRYPOINT ["/usr/local/bin/blackfire-player"]
