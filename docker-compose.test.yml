@@ -3,4 +3,6 @@ services:
     sut:
         build:
             context: .
+            args:
+                VERSION_SUFFIX: "-v$DOCKER_TAG"
         command: list
