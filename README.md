@@ -1,5 +1,9 @@
 # Blackfire Player in Docker
 
+**This image is deprecated and not supported anymore. Please use official build [blackfire/player](https://hub.docker.com/r/blackfire/player) instead**
+
+
+
 [Blackfire Player](https://blackfire.io/docs/player/index) is a powerful Web Crawling, Web Testing, and Web Scraper application. 
 
 ## Usage 
